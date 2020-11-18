@@ -1,0 +1,7 @@
+﻿  HW4_Abs.cpp
+C:\Users\Danll\source\repos\HW4_Abs\HW4_Abs\HW4_Abs.cpp(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danll\source\repos\HW4_Abs\HW4_Abs\HW4_Abs.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danll\source\repos\HW4_Abs\HW4_Abs\HW4_Abs.cpp(32,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danll\source\repos\HW4_Abs\HW4_Abs\HW4_Abs.cpp(34,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danll\source\repos\HW4_Abs\HW4_Abs\HW4_Abs.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW4_Abs.vcxproj -> C:\Users\Danll\source\repos\HW4_Abs\Debug\HW4_Abs.exe
